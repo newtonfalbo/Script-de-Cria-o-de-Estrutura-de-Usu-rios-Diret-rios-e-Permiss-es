@@ -2,7 +2,7 @@
 
 **Desafio de Projeto da DIO.ME da Formação Linux Fundamental**
 
-**Definições**
+**Definições:**
 
 1. Excluir diretórios, arquivos, grupos e usuários criados anteriormente;
  
